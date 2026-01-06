@@ -30,6 +30,8 @@ function makeGrammarSidebar() {
 }
 
 export default defineConfig({
+  base: '/ithkuil4-rus/',
+  
   lang: 'ru-RU',
   title: 'Новый Ифкуиль',
   description: 'Текст...',
