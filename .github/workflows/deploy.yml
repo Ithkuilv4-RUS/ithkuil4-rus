@@ -22,8 +22,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: npm ci
-      - run: npm run docs:build
+      - run: pnpm ci
+      - run: pnpm run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist

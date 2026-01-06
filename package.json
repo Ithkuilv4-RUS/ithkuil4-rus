@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Грамматика Ифкуиля на русском",
-  "author": "Vyacheslav Darnitsyn",
+  "author": "Ифкуиль RU | Ithkuil confessions",
   "license": "MIT",
   "packageManager": "pnpm@10.14.0",
   "scripts": {
