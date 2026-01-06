@@ -1,0 +1,23 @@
+{
+  "name": "ithkuil-v4-ru",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Грамматика Ифкуиля на русском",
+  "author": "Vyacheslav Darnitsyn",
+  "license": "MIT",
+  "packageManager": "pnpm@10.14.0",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "sass": "^1.97.2",
+    "typescript": "^5.7.2",
+    "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.3",
+    "gray-matter": "^4.0.3"
+  }
+}
