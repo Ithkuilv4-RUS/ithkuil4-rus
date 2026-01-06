@@ -22,7 +22,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: pnpm ci
+      - run: pnpm install
       - run: pnpm run build
       - uses: actions/upload-pages-artifact@v3
         with:
