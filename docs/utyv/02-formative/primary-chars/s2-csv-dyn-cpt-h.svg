@@ -47,7 +47,7 @@
           <path
              d="m 0,-35 c 30,0 30,20 30,35 30,0 30,20 30,35"
              id="path1"
-             style="stroke-dasharray:5,15;stroke-dashoffset:0" />
+             style="fill:none;stroke-dasharray:none;stroke-dashoffset:0;stroke:#808080;stroke-opacity:1" />
           <path
              d="m 60,35 c -20,2.5 0,15 9,5"
              id="path2" />
