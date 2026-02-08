@@ -126,15 +126,21 @@
 </tbody>
 </table>
 
-### Сибилянты
+### Свистящие
 
-Сибиля́нты (свистя́щие) — согласные звуки, при произношении которых поток воздуха стремительно проходит между зубами.
+Свистящие фрикативы — согласные звуки, при произношении которых поток воздуха стремительно проходит между зубами.
+
+Свистящие аффрикаты, также как и взрывные согласные входят в группу смычных согласных. В отличие от взрывных, при артикуляции аффрикат размыкание смычки происходит не резко и завершается извлечением свистящего звука.
+
 
 <table> 
 <thead><tr>
 <th> Обозначение фонемы </th> <th> Варианты произношения по МФА </th> <th> По месту артикуляции </th> <th> Глухой/звонкий </th> <th> Аналоги в других языках </th>
 </tr></thead>
 <tbody>
+<tr>
+    <td align="center" colspan=5> <i>Свистящие фрикативы </i>  </td>
+</tr>
 <tr>
     <td align="center"> <b>-s-</b> </td> 
     <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/Voiceless_alveolar_sibilant.ogg/Voiceless_alveolar_sibilant.ogg.mp3">[s]</a> </td> 
@@ -162,6 +168,37 @@
     <td> Палато-альвеолярный </td> 
     <td> Звонкий </td> 
     <td> Как в английском mea<b>s</b>ure, но без округления губ. В русском такого звука нет, это нечто среднее между твердым и мягким -ж-. </td>
+</tr>
+<tr>
+    <td align="center" colspan=5> <i>Свистящие аффрикаты </i>  </td>
+</tr>
+<tr>
+    <td align="center"> <b>-c-</b> </td> 
+    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Voiceless_alveolar_sibilant_affricate.oga/Voiceless_alveolar_sibilant_affricate.oga.mp3">[ʦ]</a>  </td> 
+    <td> Апико-альвеолярный </td> 
+    <td> Глухой </td> 
+    <td> Как в русском <b>ц</b>арь </td>
+</tr>
+<tr>
+    <td align="center"> <b>-ẓ-</b> </td> 
+    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Voiced_alveolar_sibilant_affricate.oga/Voiced_alveolar_sibilant_affricate.oga.mp3">[ʣ]</a> </td> 
+    <td> Апико-альвеолярный </td> 
+    <td> Звонкий </td> 
+    <td> Звонкий аналог русского "ц" </td>
+</tr>
+<tr>
+    <td align="center"> <b>-č-</b> </td> 
+    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Voiceless_palato-alveolar_affricate.ogg/Voiceless_palato-alveolar_affricate.ogg.mp3">[ʧ]</a> </td> 
+    <td> Палато-альвеолярный </td> 
+    <td> Глухой </td> 
+    <td> Как в английском bu<b>tch</b>. Русский звук "ч" мягкий и этим отличается от звука "č", который не мягкий и не твердый. </td>
+</tr>
+<tr>
+    <td align="center"> <b>-j-</b> </td> 
+    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Voiced_palato-alveolar_affricate.ogg/Voiced_palato-alveolar_affricate.ogg.mp3">[ʤ]</a> </td> 
+    <td> Палато-альвеолярный </td> 
+    <td> Звонкий </td> 
+    <td> Как в английском bu<b>dg</b>e. С точки зрения русского языка - не мягкий и не твердый. </td>
 </tr>
 </tbody>
 </table>
@@ -236,47 +273,6 @@
     <td> Увулярный </td> 
     <td> Звонкий </td> 
     <td> как во французском <b>r</b>i<b>r</b>e или немецком <b>R</b>uh<b>r</b>. Следует позаботится о правильном произношении <b>-př-</b> и <b>-tř-</b>: они должны отличаться от <b>-px-</b> и <b>-tx-</b>. </td>
-</tr>
-</tbody>
-</table>
-
-
-### Аффрикаты
-
-Аффрикаты, также как и взрывные согласные входят в группу смычных согласных. В отличие от взрывных, при артикуляции аффрикат размыкание смычки происходит не резко и похоже на артикуляцию фрикативных согласных.
-
-<table> 
-<thead><tr>
-<th> Обозначение фонемы </th> <th> Варианты произношения по МФА </th> <th> По месту артикуляции </th> <th> Глухой/звонкий </th> <th> Аналоги в других языках </th>
-</tr></thead>
-<tbody>
-<tr>
-    <td align="center"> <b>-c-</b> </td> 
-    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Voiceless_alveolar_sibilant_affricate.oga/Voiceless_alveolar_sibilant_affricate.oga.mp3">[ʦ]</a>  </td> 
-    <td> Апико-альвеолярный </td> 
-    <td> Глухой </td> 
-    <td> Как в русском <b>ц</b>арь </td>
-</tr>
-<tr>
-    <td align="center"> <b>-ẓ-</b> </td> 
-    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Voiced_alveolar_sibilant_affricate.oga/Voiced_alveolar_sibilant_affricate.oga.mp3">[ʣ]</a> </td> 
-    <td> Апико-альвеолярный </td> 
-    <td> Звонкий </td> 
-    <td> Звонкий аналог русского "ц" </td>
-</tr>
-<tr>
-    <td align="center"> <b>-č-</b> </td> 
-    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Voiceless_palato-alveolar_affricate.ogg/Voiceless_palato-alveolar_affricate.ogg.mp3">[ʧ]</a> </td> 
-    <td> Палато-альвеолярный </td> 
-    <td> Глухой </td> 
-    <td> Как в английском bu<b>tch</b>. Русский звук "ч" мягкий и этим отличается от звука "č", который не мягкий и не твердый. </td>
-</tr>
-<tr>
-    <td align="center"> <b>-j-</b> </td> 
-    <td align="center"> <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Voiced_palato-alveolar_affricate.ogg/Voiced_palato-alveolar_affricate.ogg.mp3">[ʤ]</a> </td> 
-    <td> Палато-альвеолярный </td> 
-    <td> Звонкий </td> 
-    <td> Как в английском bu<b>dg</b>e. С точки зрения русского языка - не мягкий и не твердый. </td>
 </tr>
 </tbody>
 </table>
