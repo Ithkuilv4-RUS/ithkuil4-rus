@@ -37,6 +37,9 @@ class ExamplesLoader {
         `<tr>`+
         `<td colspan="2"><img src=`+this.imgPath+id+`.svg></td>`+
         `</tr>`+
+        `<tr>`+
+        `<td colspan="2"><img src=`+this.imgPath+id+`.h.svg></td>`+
+        `</tr>`+
         `</table>`
         : null
     ;
