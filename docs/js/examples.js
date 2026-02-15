@@ -61,7 +61,7 @@ export function processExamples() {
     const romanized = romanizedElement ? romanizedElement.textContent.trim() : '';
     const russian = russianElement ? russianElement.textContent.trim() : '';
     const glosses = glossesElement ? glossesElement.innerHTML : '';
-    const calligraphic = calligraphicElement ? calligraphicElement.textContent.trim() : '';
+    const calligraphic = calligraphicElement ? calligraphicElement.innerHTML : '';
     
     // Создаём таблицу
     const table = document.createElement('table');
