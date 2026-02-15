@@ -35,7 +35,7 @@ class ExamplesLoader {
             `<td colspan="2" class=example-glosses>`+item.glosses+`</>`+
         `</tr>`+
         `<tr>`+
-        `<td colspan="2"><img src=`+this.imgPath+id+`.svg/></td>`+
+        `<td colspan="2"><img src=`+this.imgPath+id+`.svg></td>`+
         `</tr>`+
         `</table>`
         : null
