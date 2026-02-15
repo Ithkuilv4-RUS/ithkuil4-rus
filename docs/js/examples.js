@@ -79,7 +79,7 @@ export function processExamples() {
     const cell3 = row2.insertCell(0);
     cell3.className = 'example-glosses'; // Класс для объединённой ячейки
     cell3.colSpan = 2; // Объединяем две ячейки
-    cell3.textContent = glosses;
+    cell3.innerHTML = glosses;
 
     // Заменяем исходный элемент на таблицу
     exampleElement.replaceWith(table);
