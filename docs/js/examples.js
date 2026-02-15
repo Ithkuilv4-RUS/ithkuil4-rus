@@ -24,7 +24,11 @@ class ExamplesLoader {
       return null;
     }
     const item = this.data.find(item => item.id === id);
-    return item ? item.romanized : null;
+    const result = item ?
+        `<p class=example-romanized>`+item.romanized+`</>`
+        : null
+    ;
+    return result;
   }
 }
 

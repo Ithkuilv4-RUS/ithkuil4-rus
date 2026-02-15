@@ -103,3 +103,10 @@ pre code {
 }
 
 .nav-link:hover { color: #ffcc00; }
+
+/* Примеры ифкуиль */
+
+.example-romanized {
+  color: red;
+  font-weight: bold
+}
