@@ -94,5 +94,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 export { ExamplesLoader };
 
-// Экспортируем функцию для использования в других модулях
-export { processExamples };
