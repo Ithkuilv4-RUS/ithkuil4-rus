@@ -110,3 +110,10 @@ pre code {
   color: red;
   font-weight: bold
 }
+
+.example-glosses {
+}
+
+.example-russian {
+  font-style: oblique
+}
