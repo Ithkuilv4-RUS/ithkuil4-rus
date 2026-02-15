@@ -88,15 +88,18 @@ export function processExamples() {
       const cell4= row3.insertCell(0);
       cell4.colSpan = 2; // Объединяем две ячейки
 
-      const svgContainer = document.createElement('div');
-      svgContainer.innerHTML = calligraphic;
+      const svgDataUrl = `data:image/svg+xml;utf8,${encodeURIComponent(calligraphic)}`;
 
-      // Устанавливаем высоту через стиль
-      svgContainer.style.height = '50px';
-      svgContainer.style.width = 'auto';
-      svgContainer.style.display = 'inline-block';
+      // Создаём элемент <img>
+      const img = document.createElement('img');
+      img.src = svgDataUrl;
+      img.alt = 'каллиграфическое письмо';
+      img.style.height = '50px';
+      img.style.width = 'auto'; // Сохраняем пропорции
+      img.style.display = 'block'; // Убираем лишние отступы
+      img.style.margin = '0 auto'; // Центрируем изображение
 
-      cell4.appendChild(svgContainer);
+      cell4.appendChild(img);
 
     }
 
