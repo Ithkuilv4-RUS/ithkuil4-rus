@@ -5,5 +5,23 @@
         "glosses": "<b>S1.PRC</b>-“идет”-<b>BSC.DYN</b>-ASO-OBS <b>S1.PRC</b>-“кошка”-<b>BSC.STA</b>-IND", 
         "russian": "кошка идет"
     }
+    {
+        "id": "cat-run-1", 
+        "romanized": "egunļá rralu", 
+        "glosses": "<b>S2.PRC</b>-“бежит”-<b>BSC.DYN</b>-ASO-OBS <b>S1.PRC</b>-“кошка”-<b>BSC.STA</b>-IND", 
+        "russian": "кошка бежит"
+    }
+    {
+        "id": "cat-limp-1", 
+        "romanized": "ugunļá rralu", 
+        "glosses": "<b>S3.PRC</b>-“хромает”-<b>BSC.DYN</b>-ASO-OBS <b>S1.PRC</b>-“кошка”-<b>BSC.STA</b>-IND", 
+        "russian": "кошка хромает"
+    }
+    {
+        "id": "cat-go-2", 
+        "romanized": "gunļá orralu", 
+        "glosses": "<b>S1.PRC</b>-“идет”-<b>BSC.DYN</b>-ASO-OBS <b>S0.PRC</b>-“кошка”-<b>BSC.STA</b>-IND", 
+        "russian": "кошка идет"
+    }
 
 ]
