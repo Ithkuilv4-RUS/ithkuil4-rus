@@ -56,11 +56,13 @@ export function processExamples() {
     const romanizedElement = exampleElement.querySelector('.example-romanized');
     const russianElement = exampleElement.querySelector('.example-russian');
     const glossesElement = exampleElement.querySelector('.example-glosses');
+    const calligraphicElement = exampleElement.querySelector('.example-glosses');
 
     const romanized = romanizedElement ? romanizedElement.textContent.trim() : '';
     const russian = russianElement ? russianElement.textContent.trim() : '';
     const glosses = glossesElement ? glossesElement.innerHTML : '';
-
+    const calligraphic = calligraphicElement ? calligraphicElement.textContent.trim() : '';
+    
     // Создаём таблицу
     const table = document.createElement('table');
 
@@ -80,6 +82,23 @@ export function processExamples() {
     cell3.className = 'example-glosses'; // Класс для объединённой ячейки
     cell3.colSpan = 2; // Объединяем две ячейки
     cell3.innerHTML = glosses;
+
+    if (calligraphic) {
+      const row3 = table.insertRow();
+      const cell4= row3.insertCell(0);
+      cell4.colSpan = 2; // Объединяем две ячейки
+
+      const svgContainer = document.createElement('div');
+      svgContainer.innerHTML = calligraphic;
+
+      // Устанавливаем высоту через стиль
+      svgContainer.style.height = '50px';
+      svgContainer.style.width = 'auto';
+      svgContainer.style.display = 'inline-block';
+
+      cell4.appendChild(svgContainer);
+
+    }
 
     // Заменяем исходный элемент на таблицу
     exampleElement.replaceWith(table);
