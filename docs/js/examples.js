@@ -57,9 +57,9 @@ export function processExamples() {
     const russianElement = exampleElement.querySelector('.example-russian');
     const glossesElement = exampleElement.querySelector('.example-glosses');
 
-    const romanized = romanizedElement ? romanizedElement.textContent.trim() : 'Нет данных 1';
-    const russian = russianElement ? russianElement.textContent.trim() : 'Нет данных 2';
-    const glosses = glossesElement ? glossesElement.textContent.trim() : 'Нет данных 3';
+    const romanized = romanizedElement ? romanizedElement.textContent.trim() : '';
+    const russian = russianElement ? russianElement.textContent.trim() : '';
+    const glosses = glossesElement ? glossesElement.innerHTML : '';
 
     // Создаём таблицу
     const table = document.createElement('table');
