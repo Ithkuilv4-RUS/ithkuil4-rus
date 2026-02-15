@@ -2,6 +2,7 @@ class ExamplesLoader {
   constructor(jsonUrl) {
     this.jsonUrl = jsonUrl;
     this.data = null;
+    this.imgPath = jsonUrl.split('.')[0]+"/";
   }
 
   async loadData() {
@@ -32,6 +33,9 @@ class ExamplesLoader {
         `</tr>`+
         `<tr>`+
             `<td colspan="2" class=example-glosses>`+item.glosses+`</>`+
+        `</tr>`+
+        `<tr>`+
+        `<td colspan="2"><img src=`+this.imgPath+id+`.svg"/></td>`+
         `</tr>`+
         `</table>`
         : null
