@@ -56,7 +56,7 @@ export function processExamples() {
     const romanizedElement = exampleElement.querySelector('.example-romanized');
     const russianElement = exampleElement.querySelector('.example-russian');
     const glossesElement = exampleElement.querySelector('.example-glosses');
-    const calligraphicElement = exampleElement.querySelector('.eexample-calligraphic');
+    const calligraphicElement = exampleElement.querySelector('.example-calligraphic');
 
     const romanized = romanizedElement ? romanizedElement.textContent.trim() : '';
     const russian = russianElement ? russianElement.textContent.trim() : '';
