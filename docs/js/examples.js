@@ -28,4 +28,4 @@ class ExamplesLoader {
   }
 }
 
-export { ContentLoader };
+export { ExamplesLoader };
