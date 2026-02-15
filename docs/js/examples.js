@@ -25,9 +25,15 @@ class ExamplesLoader {
     }
     const item = this.data.find(item => item.id === id);
     const result = item ?
-        `<p class=example-romanized>`+item.romanized+`</>`+
-        `<p class=example-glosses>`+item.glosses+`</>`+
-        `<p class=example-russian>`+item.russian+`</>`
+        `<table border="0">`+
+        `<tr>`+
+            `<td class=example-romanized>`+item.romanized+`</td>`+
+            `<td class=example-russian>`+item.russian+`</td>`+
+        `</tr>`+
+        `<tr>`+
+            `<td colspan="2" class=example-glosses>`+item.glosses+`</>`+
+        `</tr>`+
+        `</table>`
         : null
     ;
     return result;
