@@ -1,3 +1,9 @@
+<nav class="pagination-nav">
+  <a href="/ithkuil4-rus/02-formative/02-01-intro.html" class="nav-link prev">Назад</a>
+  <a href="/ithkuil4-rus/index.html" class="nav-link contents">Содержание</a>
+  <a href="/ithkuil4-rus/02-formative/02-03-core.html" class="nav-link next">Вперёд</a>
+</nav>
+
 ## Обзор структуры форматива
 
 Форматив в новом ифкуиле - это слово-конструктор. Его фонетическое представление напрямую выражает его морфологическую структуру, а каждый морфологический элемент регулярным образом формирует его смысловое значение.

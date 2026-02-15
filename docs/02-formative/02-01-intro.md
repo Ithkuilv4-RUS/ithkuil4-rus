@@ -1,3 +1,9 @@
+<nav class="pagination-nav">
+  <a href="/ithkuil4-rus/01-phonology/01-04-phonotactics.html" class="nav-link prev">Назад</a>
+  <a href="/ithkuil4-rus/index.html" class="nav-link contents">Содержание</a>
+  <a href="/ithkuil4-rus/02-formative/02-02-structure.html" class="nav-link next">Вперёд</a>
+</nav>
+
 # Форматив
 
 
