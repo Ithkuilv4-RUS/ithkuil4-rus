@@ -38,6 +38,7 @@ table td {
 table th {
     background-color: #f6f8fa;
     font-weight: 600;
+    text-align: center;
 }
 
 table tr:nth-child(even) {
