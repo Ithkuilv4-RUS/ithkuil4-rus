@@ -441,30 +441,251 @@ ________
     <td align="center"> <b>CLS</b> </td> 
     <td align="center"> </td> 
     <td align="center"> </td> 
-    <td align="center"> <img src="primary-chars/rpv.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/rpv-h.svg"/> </td> 
+    <td align="center"> <img src="primary-chars/rpv.svg" width=100px /> </td> 
+    <td align="center"> <img src="primary-chars/rpv-h.svg" width=100px /> </td> 
 </tr>
 <tr>
     <td align="center"> <b>ASO</b> </td> 
-    <td align="center"> <img src="primary-chars/aso.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/aso-h.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/aso-rpv.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/aso-rpv-h.svg"/> </td> 
+    <td align="center"> <img src="primary-chars/aso.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/aso-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/aso-rpv.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/aso-rpv-h.svg" width=100px/> </td> 
 </tr>
 <tr>
     <td align="center"> <b>COA</b> </td> 
-    <td align="center"> <img src="primary-chars/coa.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/coa-h.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/coa-rpv.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/coa-rpv-h.svg"/> </td> 
+    <td align="center"> <img src="primary-chars/coa.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/coa-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/coa-rpv.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/coa-rpv-h.svg" width=100px/> </td> 
 </tr>
 <tr>
     <td align="center"> <b>VAR</b> </td> 
-    <td align="center"> <img src="primary-chars/var.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/var-h.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/var-rpv.svg"/> </td> 
-    <td align="center"> <img src="primary-chars/var-rpv-h.svg"/> </td> 
+    <td align="center"> <img src="primary-chars/var.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/var-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/var-rpv.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/var-rpv-h.svg" width=100px/> </td> 
 </tr>
 </tbody>
 </table>
 
+Конфигурации обозначаются дополнительным элементом в левом-нижнем углу символа, а также путем модификации нижнего концевого элемента, отвечающего за основу, версию и активность. 
+
+Как было объяснено выше, категория конфигурации является составной, состоящей из подкатегорий численности, схожести и членимости. Соответственно,  графический элемент в левом-нижнем углу отвечает только за схожесть и членимость. Категория численности определяется по следующим правилам:
+
+1. Единичная численность обозначается основным начертанием нижнего концевого элемента и пустым левым-нижним элементом.
+2. Двойная численность обозначается альтернативным начертанием нижнего концевого элемента. Левый-нижний элемент может быть пустым, если подкатегории схожести и членимости не заданы, или заполненным для указания категорий схожести и членимости.
+3. Множественная численность обозначается основным начертанием нижнего концевого элемента и заполненным левым-нижним элементом.
+
+Начертание левого-нижнего элемента для обозначения схожести и членимости:
+
+<table> 
+<thead>
+    <tr><th/><th> Раздельная </th><th> Сопряженная </th> <th> Слитая </th></tr>
+</thead>
+<tbody>
+<tr>
+    <td align="center" rowspan=2> <b>Похожая</b> </td> 
+    <td align="center"> <img src="primary-chars/ss.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/sc.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/sf.svg" width=100px/> </td> 
+</tr>
+<tr>
+    <td align="center"> <img src="primary-chars/ss-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/sc-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/sf-h.svg" width=100px/> </td> 
+</tr>
+<tr>
+    <td align="center" rowspan=2> <b>Непохожая</b> </td> 
+    <td align="center"> <img src="primary-chars/ds.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/dc.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/df.svg" width=100px/> </td> 
+</tr>
+<tr>
+    <td align="center"> <img src="primary-chars/ds-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/dc-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/df-h.svg" width=100px/> </td> 
+</tr>
+<tr>
+    <td align="center" rowspan=2> <b>Нечеткая</b> </td> 
+    <td align="center"> <img src="primary-chars/fs.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/fc.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/ff.svg" width=100px/> </td> 
+</tr>
+<tr>
+    <td align="center"> <img src="primary-chars/fs-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/fc-h.svg" width=100px/> </td> 
+    <td align="center"> <img src="primary-chars/ff-h.svg" width=100px/> </td> 
+</tr>
+</tbody>
+</table>
+
+Начертание нижнего концевого элемента для обозначения численности, в зависимости от основы, активности и версии.
+
+<table> 
+<thead>
+    <tr>
+        <th rowspan=3>  </th><th colspan=4> STA </th> <th colspan=4> DYN </th>
+    </tr>
+    <tr>
+        <th colspan=2> PRC </th> <th colspan=2> CPT </th><th colspan=2> PRC </th> <th colspan=2> CPT </th>
+    </tr>
+    <tr> 
+        <td align="center">U/M</td><td align="center">D</td>
+        <td align="center">U/M</td><td align="center">D</td>
+        <td align="center">U/M</td><td align="center">D</td>
+        <td align="center">U/M</td><td align="center">D</td>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td align="center" rowspan=2>  <b>S1</b> </td> 
+    <td align="center">  </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-sta-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-sta-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-sta-cpt-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-cpt-d.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center">  </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-bsc-dyn-cpt-d-h.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center" rowspan=2>  <b>S2</b> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-cpt-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-cpt-d.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-bsc-dyn-cpt-d-h.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center" rowspan=2>  <b>S3</b> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-cpt-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-cpt-d.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-bsc-dyn-cpt-d-h.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center" rowspan=2>  <b>S0</b> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-cpt-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-prc.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-prc-d.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-cpt.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-cpt-d.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-bsc-dyn-cpt-d-h.svg" width=50px/> </td> 
+</tr>
+</tbody>
+</table>
+
+Рукописное начертание нижнего концевого элемента от вертикальной линии:
+
+<table> 
+<thead>
+    <tr>
+        <th rowspan=3>  </th><th colspan=4> STA </th> <th colspan=4> DYN </th>
+    </tr>
+    <tr>
+        <th colspan=2> PRC </th> <th colspan=2> CPT </th><th colspan=2> PRC </th> <th colspan=2> CPT </th>
+    </tr>
+    <tr> 
+        <td align="center">U/M</td><td align="center">D</td>
+        <td align="center">U/M</td><td align="center">D</td>
+        <td align="center">U/M</td><td align="center">D</td>
+        <td align="center">U/M</td><td align="center">D</td>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td align="center">  <b>S1</b> </td> 
+    <td align="center">  </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s1-csv-dyn-cpt-d-h.svg" width=50px/> </td> </tr>
+<tr>
+    <td align="center">  <b>S2</b> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-sta-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s2-csv-dyn-cpt-d-h.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center">  <b>S3</b> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-sta-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s3-csv-dyn-cpt-d-h.svg" width=50px/> </td> 
+</tr>
+<tr>
+    <td align="center">  <b>S0</b> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-sta-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-sta-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-sta-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-sta-cpt-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-dyn-prc-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-dyn-prc-d-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-dyn-cpt-h.svg" width=50px/> </td> 
+    <td align="center"> <img src="primary-chars/s0-csv-dyn-cpt-d-h.svg" width=50px/> </td> </tr>
+</tbody>
+</table>
+
+
+Категории Протяженности и Перспективы на письме обозначаются верхним концевым элементом:
