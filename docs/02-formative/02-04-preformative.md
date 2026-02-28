@@ -519,7 +519,7 @@ ________
 </tbody>
 </table>
 
-Начертание нижнего концевого элемента для обозначения численности, в зависимости от основы, активности и версии.
+Начертание нижнего концевого элемента для обозначения численности, в зависимости от основы, активности и версии:
 
 <table> 
 <thead>
@@ -689,3 +689,256 @@ ________
 
 
 Категории Протяженности и Перспективы на письме обозначаются верхним концевым элементом:
+
+<table> 
+<thead>
+    <tr>
+        <th >  </th><th> DEL </th> <th> PRX </th> <th> ICP </th> <th> ATV </th>  <th> GRA </th> <th> DPL </th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td align=center rowspan=3> <b>M</b> </td>
+    <td align=center> </td>
+    <td align=center> <img src="primary-chars/bsc-m-prx.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-icp.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-atv.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-gra.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-dpl.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> </td>
+    <td align=center> <img src="primary-chars/bsc-m-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-m-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> </td>
+    <td align=center> <img src="primary-chars/csv-m-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-m-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-m-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-m-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-m-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center rowspan=3> <b>G</b> </td>
+    <td align=center> <img src="primary-chars/bsc-g-del.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-prx.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-icp.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-atv.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-gra.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-dpl.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> <img src="primary-chars/bsc-g-del-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-g-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> <img src="primary-chars/csv-g-del-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-g-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-g-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-g-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-g-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-g-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center rowspan=3> <b>N</b> </td>
+    <td align=center> <img src="primary-chars/bsc-n-del.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-prx.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-icp.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-atv.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-gra.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-dpl.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> <img src="primary-chars/bsc-n-del-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-n-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> <img src="primary-chars/csv-n-del-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-n-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-n-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-n-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-n-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-n-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center rowspan=3> <b>A</b> </td>
+    <td align=center> <img src="primary-chars/bsc-a-del.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-prx.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-icp.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-atv.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-gra.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-dpl.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> <img src="primary-chars/bsc-a-del-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/bsc-a-dpl-h.svg" width=50px> </td>
+</tr>
+<tr>
+    <td align=center> <img src="primary-chars/bsc-a-del-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-a-prx-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-a-icp-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-a-atv-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-a-gra-h.svg" width=50px> </td>
+    <td align=center> <img src="primary-chars/csv-a-dpl-h.svg" width=50px> </td>
+</tr>
+</tbody>
+</table>
+
+### Примеры
+
+#### Спецификация + Принадлежность
+
+Основа  **sřa-** означает *комната*.
+
+<div class="example">
+<div class="example-romanized">
+    sřala    
+</div>
+<div class="example-russian">
+    (одна) комната (вне контекста целей)
+</div>
+<div class="example-glosses">
+    S1-"комната"-<b>CSL.UPX</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 130 88.7750015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path></g><g><path d="M 130 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 104.95 34.974998474121094 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 140 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path></g><g><path d="M 135 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 125 35 l -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    sřanļa
+</div>
+<div class="example-russian">
+    (одна) комната (имеющая определенную функцию)
+</div>
+<div class="example-glosses">
+    S1-"комната"-<b>ASO.UPX</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 130 88.7750015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 37.5 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path></g><g><path d="M 130 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 104.95 34.974998474121094 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 140 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 50 -35 l 20 20"></path></g><g><path d="M 135 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 125 35 l -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+
+<div class="example">
+<div class="example-romanized">
+    sřarka
+</div>
+<div class="example-russian">
+    здание, где все комнаты одинаковые, но служат разным (взаимодополняющим) целям; офисный центр
+</div>
+<div class="example-glosses">
+    S1-"комната"-<b>COA.MSC</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 137.5 88.7750015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 10 17.5 l -10 10 l 0 25 l 10 -10 l 0 -25 z"></path><path d="M 62.5 -25 l 10 -10 l -30 0 l -10 10 l 30 0 z"></path></g><g><path d="M 137.5 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 112.45 34.974998474121094 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 140 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 0 15 v 20"></path><path d="M 50 -35 h 20"></path></g><g><path d="M 135 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 125 35 l -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    sřalža
+</div>
+<div class="example-russian">
+    здание, где все сходство комнат не имеет значения, служащие одной цели; жилой дом
+</div>
+<div class="example-glosses">
+    S1-"комната"-<b>ASO.MFC</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 137.5 88.7750015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 15 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 12.5 12.5 l 12.5 12.5 l -15 0 l -10 10 l 30 0 l 10 -10 l -20 -20 l -7.5 7.5 z"></path><path d="M 45 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path></g><g><path d="M 137.5 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 112.45 34.974998474121094 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 140 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 0 35 h 20 l -12.5 -15"></path><path d="M 50 -35 l 20 20"></path></g><g><path d="M 135 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 125 35 l -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    
+</div>
+<div class="example-russian">
+    
+</div>
+<div class="example-glosses">
+    
+</div>
+<div class="example-calligraphic">
+
+</div>
+<div class="example-handwritten">
+    
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    
+</div>
+<div class="example-russian">
+    
+</div>
+<div class="example-glosses">
+    
+</div>
+<div class="example-calligraphic">
+
+</div>
+<div class="example-handwritten">
+    
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    
+</div>
+<div class="example-russian">
+    
+</div>
+<div class="example-glosses">
+    
+</div>
+<div class="example-calligraphic">
+
+</div>
+<div class="example-handwritten">
+    
+</div>
+</div>
+
+
+
+
+
+
+
+
+<script type="module" src="/ithkuil4-rus/js/examples.js">
+</script>
