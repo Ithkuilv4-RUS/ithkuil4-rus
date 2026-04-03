@@ -802,9 +802,9 @@ ________
 
 ### Примеры
 
-#### Спецификация + Принадлежность
+#### Категории Спецификации и Принадлежности
 
-Основа  **sřa-** означает *комната*.
+Первая основа корня **-sř-** в базовой спецификации означает *комната/помещение*.
 
 <div class="example">
 <div class="example-romanized">
@@ -879,6 +879,334 @@ ________
 </div>
 </div>
 
+Для лучшего понимания примеров в корнем **-dpř-**сначала следует изучить значения его спецификаций и основ. Для первой основы:
+
+- **BSC** *состояние/действие торговли краденными товарами, включая как предложение, так и принятие/получение/владение ими*
+- **CTE** *сторона, занимающаяся владением/предложением/получением краденых товаров*; *быть этой стороной*
+- **CSV** *физический акт торговли крадеными товарами*
+- **OBJ** *краденый товар*
+
+Для второй основы, спецификации имеют те же значения касательно *предложения на продажу краденых товаров*.
+
+Для третьей основы, спецификации имею те же значения касательно *обладания крадеными товарами; получения краденых товаров*.
+
+
+<div class="example">
+<div class="example-romanized">
+    adpřila
+</div>
+<div class="example-russian">
+    (одна) украденная вещь (вне контекста цели)
+</div>
+<div class="example-glosses">
+    S1-"украденная вещь"-OBJ-<b>CSL.UPX</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -53.80000305175781 130.85000610351562 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 47.5 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path></g><g><path d="M 80.05 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 115 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 90 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 130 96.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 35 15 35 30 35 c 0 35 15 35 30 35"></path></g><g><path d="M 125 -35 h -50 c 0 20 10 30 30 30 v 40"></path><g><path d="M 125 -35 c 0 0 -7.5 -2.5 -7.5 -10"></path></g><g><path d="M 105 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    adpřiřfa
+</div>
+<div class="example-russian">
+    контрабанда (всякая разная, выложенная на столе)
+</div>
+<div class="example-glosses">
+    S1-"украденная вещь"-OBJ-<b>VAR.MDC</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="-9.5367431640625e-7 -53.80000305175781 140.85000610351562 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 52.5 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path><path d="M 9.5367431640625e-7 27.5 l 0 25 l 20 -20 l -1.2 -1.2 l -8.8 8.8 l 0 -22.6 l -10 10 z"></path><path d="M 65 -52.5 l -10 10 l 0 25 l 10 -10 l 0 -25 z"></path></g><g><path d="M 90.05 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 125 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 100 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 130 96.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 35 15 35 30 35 c 0 35 15 35 30 35"></path><path d="M 0 17.5 v 15 a 2.5 2.5 0 0 0 5 0"></path><path d="M 60 -35 v 20"></path></g><g><path d="M 125 -35 h -50 c 0 20 10 30 30 30 v 40"></path><g><path d="M 125 -35 c 0 0 -7.5 -2.5 -7.5 -10"></path></g><g><path d="M 105 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    edpřilza
+</div>
+<div class="example-russian">
+    контрабанда на сбыт
+</div>
+<div class="example-glosses">
+    S2-"украденная вещь на продажу"-OBJ-<b>ASO.MFS</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="9.5367431640625e-7 -53.80000305175781 160.5 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 60 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path><path d="M 62.5 32.5 l 5 -5 l 10 10 l 7.15 -7.15 l -11.3 -11.2 l -7 7.1 l -1 1 q -3.183 -1.742 -3.85 0 q -0.916 1.293 0 6.25 z"></path><path d="M 25.850000381469727 12.500000953674316 q -0.75 -5.3 -5.4 -8.4 q -4.9 -3.3 -12.95 -3.2 l -7.5 7.5 q 14.9 0.4 18.6 8.55 q 3.75 8.2 -7.45 16.9 l 1.25 1.15 q 7.35 -5.2 10.9 -11.4 q 3.3 -5.85 2.55 -11.1 z"></path><path d="M 45 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path></g><g><path d="M 109.7000015258789 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 144.6500015258789 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 119.6500015258789 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 145 96.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 35 15 35 30 35 c 0 35 15 35 30 35"></path><path d="M 60 35 c -5 -10 12 -10 15 5"></path><path d="M 11.25 35 c 7.5 -7.5 3.75 -17.25 -11.25 -15"></path><path d="M 40 -35 l 20 20"></path></g><g><path d="M 140 -35 h -50 c 0 20 10 30 30 30 v 40"></path><g><path d="M 140 -35 c 0 0 -7.5 -2.5 -7.5 -10"></path></g><g><path d="M 120 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    adpřisa
+</div>
+<div class="example-russian">
+    пара украденных вещей (вне контекста цели)
+</div>
+<div class="example-glosses">
+    S1-"украденная вещь"-OBJ-<b>CSL.DPX</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -53.80000305175781 130.85000610351562 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 47.5 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path><path d="M 51.95 28.6 q -1.825 3.28 -4.45 6.4 l -7.5 7.5 l -1.2 -1.2 l 7.5 -7.5 q -1.688 -4.106 -0.35 -4.55 q 1.45 -0.6 6 -0.65 z"></path></g><g><path d="M 80.05 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 115 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 90 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 137.5 96.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 35 15 35 30 35 c 0 35 15 35 30 35"></path><path d="M 60 35 a -7.5 -7.5 0 0 1 7.5 7.5"></path></g><g><path d="M 132.5 -35 h -50 c 0 20 10 30 30 30 v 40"></path><g><path d="M 132.5 -35 c 0 0 -7.5 -2.5 -7.5 -10"></path></g><g><path d="M 112.5 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+
+Следующие примеры используют первую основу корня **-ksfw-**, значение которой имеет отношениe к *пиле*, как к инструменту. Спецификации этого корня подчиняются общему паттерну группы корней, относящихся к инструментам:
+
+- **BSC** *пила; быть пилой; пилить* - [как сам инструмент, так и способ/процесс его функционирования]
+- **СТЕ** *пила; быть пилой; использовать пилу* [касательно  самого инструмента]
+- **CSV** *способ/процесс использования пилы* (т.е. как она работает); *использовать пилу* [касательно способа/ процесса ее функционирования]
+- **OBJ** *сторона, использующая пилу; быть этой стороной*
+
+</div>
+<div class="example">
+<div class="example-romanized">
+    aksfwulá
+</div>
+<div class="example-russian">
+    (кто-то) пильнул (один раз и не специально)
+</div>
+<div class="example-glosses">
+    S1-"пила"-DYN-<b>CSL.UPX</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -44.974998474121094 199.89999389648438 104.9749984741211" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 54.9 25 q -1.655 2.716 2.6 10 l 15 0 l 10 -10 l -20 0 q -7.015 -2.931 -7.6 0 z"></path><path d="M 17.5 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 147.5 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 159.9 -44.974998474121094 l -22.4 0 l -10 10.1 l 19.9 0 l 0.1 -0.1 l 0 0.1 l -0.05 0 l -9.95 9.9 l 0 5 q 5 -5.774 10 -5 l 0 -7.55 l 12.4 -12.4 z"></path></g><g><path d="M 146.15 46.324998474121095 q 0.35 -21.9 -9.85 -27.5 l -6.3 6.35 l -2 2 q -8.054 -2.82 -4.35 6.65 l 6.3 -6.35 q 10.8 2.6 16.2 18.85 z"></path></g></g><g><path d="M 189.89999389648438 -11.15 l -10 10 l 0 -33.85 l -10 10 l 0 36.2 l 10 -9.95 l 0 33.75 l 10 -10 l 0 -36.15 z"></path><g><path d="M 183.59999389648436 51.4 l 16.3 -16.3 l 0 -22.45 l -10 10 l 0 -5.15 q -5 6.1 -10 2.5 l 0 15 l 10 -10 l 0 17.7 l -7.5 7.5 l 1.2 1.2 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 192.0833282470703 101" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 c 15 0 3.75 -22.5 -11.25 7.5"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 142.0833282470703 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 142.0833282470703 -35 a 10 10 0 0 1 10 -10 h -15"></path></g><g><path d="M 132.0833282470703 35 c 5 -20 15 0 5 10"></path></g></g><g><path d="M 167.0833282470703 -35 v 42.5 l 10 -15 v 42.5"></path><g><path d="M 177.0833282470703 35 a -5 -6 0 0 0 10 0 v 6 a -10 -10 0 0 1 -10 10"></path></g></g></g></g></g></svg>
+</div>
+</div>
+<div class="example">
+<div class="example-romanized">
+    aksfwulsá
+</div>
+<div class="example-russian">
+    (кто-то) пильнул (сделал движение пилой вперед и назад)
+</div>
+<div class="example-glosses">
+    S1-"пила"-DYN-<b>ASO.DPX</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -44.974998474121094 199.89999389648438 104.9749984741211" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 54.9 25 q -1.65 2.7 2.6 10 l 12.6 0 l -7.5 7.5 l 1.2 1.2 l 18.7 -18.7 l -20 0 q -7 -2.95 -7.6 0 z"></path><path d="M 37.5 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path><path d="M 17.5 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 147.5 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 159.9 -44.974998474121094 l -22.4 0 l -10 10.1 l 19.9 0 l 0.1 -0.1 l 0 0.1 l -0.05 0 l -9.95 9.9 l 0 5 q 5 -5.774 10 -5 l 0 -7.55 l 12.4 -12.4 z"></path></g><g><path d="M 146.15 46.324998474121095 q 0.35 -21.9 -9.85 -27.5 l -6.3 6.35 l -2 2 q -8.054 -2.82 -4.35 6.65 l 6.3 -6.35 q 10.8 2.6 16.2 18.85 z"></path></g></g><g><path d="M 189.89999389648438 -11.15 l -10 10 l 0 -33.85 l -10 10 l 0 36.2 l 10 -9.95 l 0 33.75 l 10 -10 l 0 -36.15 z"></path><g><path d="M 183.59999389648436 51.4 l 16.3 -16.3 l 0 -22.45 l -10 10 l 0 -5.15 q -5 6.1 -10 2.5 l 0 15 l 10 -10 l 0 17.7 l -7.5 7.5 l 1.2 1.2 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 192 103" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 a -7 -5 0 0 1 0 10 v 8"></path><path d="M 50 -35 l 20 20"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 142 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 142 -35 a 10 10 0 0 1 10 -10 h -15"></path></g><g><path d="M 132 35 c 5 -20 15 0 5 10"></path></g></g><g><path d="M 167 -35 v 42.5 l 10 -15 v 42.5"></path><g><path d="M 177 35 a -5 -6 0 0 0 10 0 v 6 a -10 -10 0 0 1 -10 10"></path></g></g></g></g></g></svg>
+</div>
+</div>
+<div class="example">
+<div class="example-romanized">
+    aksfwulká
+</div>
+<div class="example-russian">
+    (кто-то) пилит (акты пиления сменяют друг друга)
+</div>
+<div class="example-glosses">
+    S1-"пила"-DYN-<b>ASO.MSC</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -44.974998474121094 199.89999389648438 104.9749984741211" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 54.9 25 q -1.655 2.716 2.6 10 l 15 0 l 10 -10 l -20 0 q -7.015 -2.931 -7.6 0 z"></path><path d="M 10 17.5 l -10 10 l 0 25 l 10 -10 l 0 -25 z"></path><path d="M 37.5 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path><path d="M 17.5 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 147.5 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 159.9 -44.974998474121094 l -22.4 0 l -10 10.1 l 19.9 0 l 0.1 -0.1 l 0 0.1 l -0.05 0 l -9.95 9.9 l 0 5 q 5 -5.774 10 -5 l 0 -7.55 l 12.4 -12.4 z"></path></g><g><path d="M 146.15 46.324998474121095 q 0.35 -21.9 -9.85 -27.5 l -6.3 6.35 l -2 2 q -8.054 -2.82 -4.35 6.65 l 6.3 -6.35 q 10.8 2.6 16.2 18.85 z"></path></g></g><g><path d="M 189.89999389648438 -11.15 l -10 10 l 0 -33.85 l -10 10 l 0 36.2 l 10 -9.95 l 0 33.75 l 10 -10 l 0 -36.15 z"></path><g><path d="M 183.59999389648436 51.4 l 16.3 -16.3 l 0 -22.45 l -10 10 l 0 -5.15 q -5 6.1 -10 2.5 l 0 15 l 10 -10 l 0 17.7 l -7.5 7.5 l 1.2 1.2 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 192.0833282470703 101" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 c 15 0 3.75 -22.5 -11.25 7.5"></path><path d="M 0 15 v 20"></path><path d="M 50 -35 l 20 20"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 142.0833282470703 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 142.0833282470703 -35 a 10 10 0 0 1 10 -10 h -15"></path></g><g><path d="M 132.0833282470703 35 c 5 -20 15 0 5 10"></path></g></g><g><path d="M 167.0833282470703 -35 v 42.5 l 10 -15 v 42.5"></path><g><path d="M 177.0833282470703 35 a -5 -6 0 0 0 10 0 v 6 a -10 -10 0 0 1 -10 10"></path></g></g></g></g></g></svg>
+</div>
+</div>
+<div class="example">
+<div class="example-romanized">
+    aksfwuřțá
+</div>
+<div class="example-russian">
+    (кто-то) балуется с пилой (пилит по-всякому по разным причитам то там то тут)
+</div>
+<div class="example-glosses">
+    S1-"пила"-DYN-<b>VAR.MDS</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -52.5 207.39999389648438 112.5" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 15 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 62.4 25 q -1.655 2.716 2.6 10 l 15 0 l 10 -10 l -20 0 q -7.015 -2.931 -7.6 0 z"></path><path d="M 12.399999618530273 25 l 8.8 -8.8 l -1.2 -1.2 l -20 20 l 30 0 l 10 -10 l -27.6 0 z"></path><path d="M 72.5 -52.5 l -10 10 l 0 25 l 10 -10 l 0 -25 z"></path><path d="M 25 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 155 -34.975 l -10 10 l 0 20 l -35 0 l -10 10 l 29.95 29.95 l 7.5 -7.5 l -22.45 -22.45 l 30 0 l 10 -10 l 0 -30 z"></path><g><path d="M 167.4 -44.974998474121094 l -22.4 0 l -10 10.1 l 19.9 0 l 0.1 -0.1 l 0 0.1 l -0.05 0 l -9.95 9.9 l 0 5 q 5 -5.774 10 -5 l 0 -7.55 l 12.4 -12.4 z"></path></g><g><path d="M 153.65 46.324998474121095 q 0.35 -21.9 -9.85 -27.5 l -6.3 6.35 l -2 2 q -8.054 -2.82 -4.35 6.65 l 6.3 -6.35 q 10.8 2.6 16.2 18.85 z"></path></g></g><g><path d="M 197.39999389648438 -11.15 l -10 10 l 0 -33.85 l -10 10 l 0 36.2 l 10 -9.95 l 0 33.75 l 10 -10 l 0 -36.15 z"></path><g><path d="M 191.09999389648436 51.4 l 16.3 -16.3 l 0 -22.45 l -10 10 l 0 -5.15 q -5 6.1 -10 2.5 l 0 15 l 10 -10 l 0 17.7 l -7.5 7.5 l 1.2 1.2 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -47.5 192.0833282470703 101" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 c 15 0 3.75 -22.5 -11.25 7.5"></path><path d="M 17.5 35 h -15 a 2.5 2.5 0 0 1 0 -5"></path><path d="M 70 -35 v 20"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 142.0833282470703 -35 c -10 55 -50 20 -50 20 c 0 45 30 50 40 50"></path><g><path d="M 142.0833282470703 -35 a 10 10 0 0 1 10 -10 h -15"></path></g><g><path d="M 132.0833282470703 35 c 5 -20 15 0 5 10"></path></g></g><g><path d="M 167.0833282470703 -35 v 42.5 l 10 -15 v 42.5"></path><g><path d="M 177.0833282470703 35 a -5 -6 0 0 0 10 0 v 6 a -10 -10 0 0 1 -10 10"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+Обратите внимание: несмотря на то что Естественная Принадлежность ставится "по-умолчанию" как фонетически так и на письме, для глагола "пилить" она не является типичным случаем: обычно люди пилят с какой-то целью. Это было продемострировано на примерах выше.
+
+Корень **-gř-** приблизительно означает *кость*. Три основы этого корня указывают на кости разной формы (цилиндрическую, плоскую, сложную форму), в нашем примере мы будем использовать нулевую основу. Спецификации этого корня подчиняются общему паттерну спецификаций для частей тела:
+
+- **BSC** *кость; быть костью* (как материальный, так и функциональный аспект этого явления)
+- **CTE** *функция кости; быть этой функцией*
+- **CSV** *физическое материальное строение кости; быть этим строением*
+- **OBJ** *тело, которому принадлежит кость; быть этим телом*
+
+<div class="example">
+<div class="example-romanized">
+    ogřala
+</div>
+<div class="example-russian">
+    (одна) кость (вне контекста функции)
+</div>
+<div class="example-glosses">
+    S0-"кость"-<b>CSL.UPX</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 180.75 88.72499084472656" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 65 27.5 l 15.05 0 l 10 -10 l -17.45 0 l -8.75 8.8 q -6.9 -0.2 -3.8 6.15 l 4.95 -4.95 z"></path></g><g><path d="M 165.7 -24.925 l 10 -10 l -65.75 0 l -9.9 9.95 l 30.45 37.55 l 7.25 -7.3 l 24.15 29.65 l 7.45 -7.4 l -25.2 -31.05 l -7.5 7.45 l -23.1 -28.85 l 52.15 0 z"></path><g><path d="M 161.9 34.92499923706055 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 160 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 a -5 -5 0 0 0 0 -10 h 10"></path></g><g><path d="M 155 -35 h -60 c 0 35 25 35 25 35 a 7.5 7.5 0 0 1 7.5 -7.5 c 20 0 17.5 42.5 17.5 42.5"></path><g><path d="M 145 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    ogřarfa
+</div>
+<div class="example-russian">
+    скелет
+</div>
+<div class="example-glosses">
+    S0-"кость"-<b>COA.MDC</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="-9.5367431640625e-7 -35 180.75 88.72499084472656" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 65 27.5 l 15.05 0 l 10 -10 l -17.45 0 l -8.75 8.8 q -6.9 -0.2 -3.8 6.15 l 4.95 -4.95 z"></path><path d="M 9.5367431640625e-7 27.5 l 0 25 l 20 -20 l -1.2 -1.2 l -8.8 8.8 l 0 -22.6 l -10 10 z"></path><path d="M 62.5 -25 l 10 -10 l -30 0 l -10 10 l 30 0 z"></path></g><g><path d="M 165.7 -24.925 l 10 -10 l -65.75 0 l -9.9 9.95 l 30.45 37.55 l 7.25 -7.3 l 24.15 29.65 l 7.45 -7.4 l -25.2 -31.05 l -7.5 7.45 l -23.1 -28.85 l 52.15 0 z"></path><g><path d="M 161.9 34.92499923706055 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 160 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 a -5 -5 0 0 0 0 -10 h 10"></path><path d="M 0 17.5 v 15 a 2.5 2.5 0 0 0 5 0"></path><path d="M 50 -35 h 20"></path></g><g><path d="M 155 -35 h -60 c 0 35 25 35 25 35 a 7.5 7.5 0 0 1 7.5 -7.5 c 20 0 17.5 42.5 17.5 42.5"></path><g><path d="M 145 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    ogřarța
+</div>
+<div class="example-russian">
+    (разбросанные разные) кости (лежат тут по задумке)
+</div>
+<div class="example-glosses">
+    S0-"кость"-<b>COA.MDS</b>.DEL.M.NRM
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 188.25 88.72499084472656" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 15 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 72.5 27.5 l 15.05 0 l 10 -10 l -17.45 0 l -8.75 8.8 q -6.9 -0.2 -3.8 6.15 l 4.95 -4.95 z"></path><path d="M 12.399999618530273 25 l 8.8 -8.8 l -1.2 -1.2 l -20 20 l 30 0 l 10 -10 l -27.6 0 z"></path><path d="M 70 -25 l 10 -10 l -30 0 l -10 10 l 30 0 z"></path></g><g><path d="M 173.2 -24.925 l 10 -10 l -65.75 0 l -9.9 9.95 l 30.45 37.55 l 7.25 -7.3 l 24.15 29.65 l 7.45 -7.4 l -25.2 -31.05 l -7.5 7.45 l -23.1 -28.85 l 52.15 0 z"></path><g><path d="M 169.4 34.92499923706055 l 7.05 -7.05 q -4.298 -1.674 -7.9 0.9 q -1.089 2.895 -0.3 4.95 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 160 86.25" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 a -5 -5 0 0 0 0 -10 h 10"></path><path d="M 17.5 35 h -15 a 2.5 2.5 0 0 1 0 -5"></path><path d="M 50 -35 h 20"></path></g><g><path d="M 155 -35 h -60 c 0 35 25 35 25 35 a 7.5 7.5 0 0 1 7.5 -7.5 c 20 0 17.5 42.5 17.5 42.5"></path><g><path d="M 145 35 a -7.5 -7.5 0 0 0 -7.5 7.5 c 7.5 -2.5 10 -2 15 3.75"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+Третья основа корня **-ḑḑ-** приблизительно означает *кома*. Точное значение зависит от спецификации:
+
+- **BSC** *состояние комы; действие, приводящее к погружению в кому; быть этим состоянием или действием; быть в коме*
+- **CTE** *состояние комы; быть в этом состоянии*
+- **CSV** *состояние/действие погружение в кому; быть этим состоянием/действием; впадать в кому; погружать (кого-то) в кому*
+- **OBJ** *качество/длительность/описание чьей-то комы; быть этим качеством/длительностью/описанием;*
+
+
+<div class="example">
+<div class="example-romanized">
+    üḑḑaňá
+</div>
+<div class="example-russian">
+    (один раз) впать в кому из-за разных обстоятельств
+</div>
+<div class="example-glosses">
+    S3.CPT-"кома"-<b>VAR.UPX</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -52.5 135 112.54999542236328" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 57.5 35 l 7.5 -7.5 q -11.45 -4.9 -8.7 6.3 l -8.8 8.9 l 0 17.35 l 10 -10 l 0 -15.05 z"></path><path d="M 65 -52.5 l -10 10 l 0 25 l 10 -10 l 0 -25 z"></path><path d="M 17.5 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 135 -34.925 l -50 0 l -10 10 l 0 40 l 9.55 -9.55 l 20.65 29.4 l 7.65 -7.65 l -21.65 -30.8 l -6.2 6.2 l 0 -27.6 l 40 0 l 10 -10 z"></path><g><path d="M 125.2 24.924999237060547 l -15 0 q -7 -2.95 -7.6 0 q -1.65 2.7 2.6 10 l 10 0 l 0 15 l 10 -10 l 0 -15 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 150 86.5" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 c 0 0 -7.5 2.5 -7.5 10"></path><path d="M 70 -35 v 20"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 145 -35 c -50 0 -50 20 -50 40 l -10 -10 c 40 -10 40 40 40 40"></path><g><path d="M 125 35 h 10 v 7.5"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    üḑḑanļá
+</div>
+<div class="example-russian">
+    (один раз) впасть в кому по какой-то умышленной причине ИЛИ (один раз) ввести в кому (кого-то)
+</div>
+<div class="example-glosses">
+    S3.CPT-"кома"-<b>ASO.UPX</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 135 95.04999542236328" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 57.5 35 l 7.5 -7.5 q -11.45 -4.9 -8.7 6.3 l -8.8 8.9 l 0 17.35 l 10 -10 l 0 -15.05 z"></path><path d="M 37.5 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path><path d="M 17.5 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 135 -34.925 l -50 0 l -10 10 l 0 40 l 9.55 -9.55 l 20.65 29.4 l 7.65 -7.65 l -21.65 -30.8 l -6.2 6.2 l 0 -27.6 l 40 0 l 10 -10 z"></path><g><path d="M 125.2 24.924999237060547 l -15 0 q -7 -2.95 -7.6 0 q -1.65 2.7 2.6 10 l 10 0 l 0 15 l 10 -10 l 0 -15 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 150 86.5" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 c 0 0 -7.5 2.5 -7.5 10"></path><path d="M 50 -35 l 20 20"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 145 -35 c -50 0 -50 20 -50 40 l -10 -10 c 40 -10 40 40 40 40"></path><g><path d="M 125 35 h 10 v 7.5"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+<div class="example">
+<div class="example-romanized">
+    üḑḑalá
+</div>
+<div class="example-russian">
+    (один раз) впасть в кому (от болезни, пострадав и т.п.)
+</div>
+<div class="example-glosses">
+    S3.CPT-"кома"-<b>CSL.UPX</b>.DEL.M.NRM-OBS
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="0 -35 135 95.04999542236328" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 7.5 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 57.5 35 l 7.5 -7.5 q -11.45 -4.9 -8.7 6.3 l -8.8 8.9 l 0 17.35 l 10 -10 l 0 -15.05 z"></path><path d="M 17.5 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 135 -34.925 l -50 0 l -10 10 l 0 40 l 9.55 -9.55 l 20.65 29.4 l 7.65 -7.65 l -21.65 -30.8 l -6.2 6.2 l 0 -27.6 l 40 0 l 10 -10 z"></path><g><path d="M 125.2 24.924999237060547 l -15 0 q -7 -2.95 -7.6 0 q -1.65 2.7 2.6 10 l 10 0 l 0 15 l 10 -10 l 0 -15 z"></path></g></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -37.5 150 86.5" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 70 35 c 0 0 -7.5 2.5 -7.5 10"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 145 -35 c -50 0 -50 20 -50 40 l -10 -10 c 40 -10 40 40 40 40"></path><g><path d="M 125 35 h 10 v 7.5"></path></g></g></g></g></g></svg>
+</div>
+</div>
+
+#### Категория протяженности
+
+<div class="example">
+<div class="example-romanized">
+    Lḑazá ackhali'a.
+</div>
+<div class="example-russian">
+    На острове есть лес.
+</div>
+<div class="example-glosses">
+    S1-"дерево"-CSL.MFS.<b>DEL</b>.M.NRM-OBS S1-"остров"-CSL.UPX.<b>DEL</b>.M.NRM-LOC
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="9.5367431640625e-7 -75.0250015258789 324.5500183105469 141.39999389648438" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 15 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 25.850000381469727 12.500000953674316 q -0.75 -5.3 -5.4 -8.4 q -4.9 -3.3 -12.95 -3.2 l -7.5 7.5 q 14.9 0.4 18.6 8.55 q 3.75 8.2 -7.45 16.9 l 1.25 1.15 q 7.35 -5.2 10.9 -11.4 q 3.3 -5.85 2.55 -11.1 z"></path><path d="M 25 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 97.5 -35 l -10 10 l 0 35 l 19.95 0 l -24.95 25 l 40 0 l 10 -10 l -37.6 0 l 24.85 -25 l -22.25 0 l 0 -35 z"></path><g><path d="M 112.05 35 l 10.45 0 l 16.35 -16.35 q -8.942 -4.256 -7.9 -14.9 q -8.313 8.782 -0.75 21.25 l -13.35 0 q 4.7 5.2 -4.8 10 z"></path></g></g><g><path d="M 156.35000610351562 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path></g><g><path d="M 233.7500030517578 -35.025 l -9.9 9.95 l 47.35 58.35 l 0.05 0 l 1.4 1.75 l 7.5 -7.5 l -42.7 -52.55 l 52.05 0 l 10 -10 l -65.75 0 z"></path><g><path d="M 299.5000030517578 -35.025001525878906 l 12.65 0 l -7.5 7.5 l 1.2 1.2 l 18.7 -18.7 l -17.45 0 l -9.95 10 l -7.6 0 q 4.95 4.2 -6.25 10 l 6.25 0 l 9.95 -10 z"></path></g><g><path d="M 255.1500030517578 65.17500152587891 l 1.2 1.2 l 16.3 -16.3 l 0 -15.05 l 7.5 -7.5 q -11.45 -4.9 -8.7 6.3 l -8.8 8.9 l 0 14.95 l -7.5 7.5 z"></path></g><path d="M 266.600004196167 -65.0250015258789 l 8.8 -8.8 l -1.2 -1.2 l -20 20 l 30 0 l 10 -10 l -27.6 0 z"></path></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -60.34609603881836 316.9947814941406 117.84609985351562" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 0 -35 c 0 40 30 70 70 70"></path><path d="M 11.25 35 c 7.5 -7.5 3.75 -17.25 -11.25 -15"></path><path d="M 28.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 85 -35 v 35 c 60 0 0 35 0 35 h 50"></path><g><path d="M 135 35 a -7.5 -7.5 0 0 1 0 -15"></path></g></g><g><path d="M 150 -35 c 0 40 30 70 70 70"></path></g><g><path d="M 296.9862976074219 -35 h -60 c -10 50 20 70 40 70"></path><g><path d="M 296.9862976074219 -35 c 0 -10 7.5 -10 7.5 0 c 0 -10 7.5 -10 7.5 -2.5 a -2.5 -2.5 0 0 1 -1.5 2.5"></path></g><g><path d="M 276.9862976074219 35 c 10 0 15 7 5 10 c -10 3 -5 10 5 10"></path></g><path d="M 282.2473831176758 -52.84609603881836 h -15 a 2.5 2.5 0 0 1 0 -5"></path></g></g></g></g></svg>
+</div>
+</div>
+
+В этом примере лес и остров рассматриваются целиком, вместе с границами.
+
+<div class="example">
+<div class="example-romanized">
+    Eguldá ebzalu lḑazti'o.
+</div>
+<div class="example-russian">
+    Заяц бежит по лесу.
+</div>
+<div class="example-glosses">
+    S2-"бежать"-DYN-ASO.UPX.<b>PRX</b>.M.NRM-OBS S2-"заяц"-CSL.UPX.<b>DEL</b>.M.NRM-IND S1-"дерево"-CSL.MFS.<b>PRX</b>.M.NRM-LOC
+</div>
+<div class="example-calligraphic">
+    <svg viewBox="-4.76837158203125e-7 -65 481.0999755859375 150.4029541015625" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 15 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 13.899999999999999 -31.95 q -3.28 1.825 -6.4 4.45 l -7.5 7.5 l 1.2 1.2 l 7.5 -7.5 q 4.106 1.688 4.55 0.35 q 0.6 -1.45 0.65 -6 z"></path><path d="M 85 25 l -15 0 q -7 -2.95 -7.6 0 q -1.65 2.7 2.6 10 l 10 0 l 0 15 l 10 -10 l 0 -15 z"></path><path d="M 45 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path><path d="M 25 52.5 l 7.5 7.5 l 7.5 -7.5 l -7.5 -7.5 l -7.5 7.5 z"></path></g><g><path d="M 160.64999694824218 -24.925 l 10 -10 l -65.75 0 l -9.9 9.95 l 30.45 37.55 l 7.25 -7.3 l 24.15 29.65 l 7.45 -7.4 l -25.2 -31.05 l -7.5 7.45 l -23.1 -28.85 l 52.15 0 z"></path></g><g><path d="M 188.14999389648438 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 240.64999389648438 32.5 l 5 -5 l 10 10 l 7.15 -7.15 l -11.3 -11.2 l -7 7.1 l -1 1 q -3.183 -1.742 -3.85 0 q -0.916 1.293 0 6.25 z"></path></g><g><path d="M 332.1999881744385 -35 l -50 0 l -9.4 9.4 l 23.2 33.05 l 6.2 -6.25 l 0 33.8 l 10 -10 l 0 -36.15 l -1.1 1.1 q -2.967 2.977 -5.95 5.95 l -1.95 2 l -0.65 0.65 l -16.5 -23.5 l 36.2 0 l 10 -10 z"></path><g><path d="M 294.6999881744385 40.1 l 1.2 1.2 l 16.3 -16.3 l 0 -7.75 q -5 9.444 -10 6.55 l 0 8.8 l -7.5 7.5 z"></path></g><path d="M 289.6694321632385 73.80000305175781 q 0.75 5.3 5.4 8.4 q 4.9 3.3 12.95 3.2 l 7.5 -7.5 q -14.9 -0.4 -18.6 -8.55 q -3.75 -8.2 7.45 -16.9 l -1.25 -1.15 q -7.35 5.2 -10.9 11.4 q -3.3 5.85 -2.55 11.1 z"></path></g><g><path d="M 357.2499694824219 -35 l -7.5 7.5 57.5 62.5 7.5 -7.5 -57.5 -62.5 z"></path><path d="M 356.14996948242185 -31.95 q -3.28 1.825 -6.4 4.45 l -7.5 7.5 l 1.2 1.2 l 7.5 -7.5 q 4.106 1.688 4.55 0.35 q 0.6 -1.45 0.65 -6 z"></path><path d="M 368.0999698638916 12.500000953674316 q -0.75 -5.3 -5.4 -8.4 q -4.9 -3.3 -12.95 -3.2 l -7.5 7.5 q 14.9 0.4 18.6 8.55 q 3.75 8.2 -7.45 16.9 l 1.25 1.15 q 7.35 -5.2 10.9 -11.4 q 3.3 -5.85 2.55 -11.1 z"></path></g><g><path d="M 439.7499694824219 -35 l -10 10 l 0 35 l 19.95 0 l -24.95 25 l 40 0 l 10 -10 l -37.6 0 l 24.85 -25 l -22.25 0 l 0 -35 z"></path><g><path d="M 454.2999694824219 35 l 10.45 0 l 16.35 -16.35 q -8.942 -4.256 -7.9 -14.9 q -8.313 8.782 -0.75 21.25 l -13.35 0 q 4.7 5.2 -4.8 10 z"></path></g><path d="M 445.3249683380127 -55 l 8.8 -8.8 l -1.2 -1.2 l -20 20 l 30 0 l 10 -10 l -27.6 0 z"></path><path d="M 462.9249687194824 55 l 10 -10 l -30 0 l -10 10 l 30 0 z"></path></g></g></g></g></svg>
+</div>
+<div class="example-handwritten">
+    <svg viewBox="-2.5 -52.5 492.08331298828125 125.32925415039062" stroke-linejoin="round" stroke-linecap="round" stroke-width="5" stroke="black" fill="none" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 10 -35 c 0 40 30 70 70 70"></path><path d="M 10 -35 c 0 -10 -7 -12 -10 -5"></path><path d="M 80 35 c 15 0 3.75 22.5 -11.25 -7.5"></path><path d="M 60 -35 l 20 20"></path><path d="M 38.25 45.75 a -0.75 -0.75 0 0 0 -0.75 -0.75 a -0.75 -0.75 0 0 0 -0.75 0.75 a -0.75 -0.75 0 0 0 0.75 0.75 a -0.75 -0.75 0 0 0 0.75 -0.75"></path></g><g><path d="M 162.0833282470703 -35 h -60 c 0 35 25 35 25 35 a 7.5 7.5 0 0 1 7.5 -7.5 c 20 0 17.5 42.5 17.5 42.5"></path></g><g><path d="M 177.0833282470703 -35 c 0 40 30 70 70 70"></path><path d="M 247.0833282470703 35 c -5 -10 12 -10 15 5"></path></g><g><path d="M 327.08331298828125 -35 h -50 c 0 20 15 40 35 30 l -10 -10 v 50"></path><g><path d="M 302.08331298828125 35 a -7.5 -10 0 0 1 -7.5 10"></path></g><path d="M 298.33331298828125 55 c -7.5 7.5 -3.75 17.25 11.25 15"></path></g><g><path d="M 352.08331298828125 -35 c 0 40 30 70 70 70"></path><path d="M 352.08331298828125 -35 c 0 -10 -7 -12 -10 -5"></path><path d="M 363.33331298828125 35 c 7.5 -7.5 3.75 -17.25 -11.25 -15"></path></g><g><path d="M 437.08331298828125 -35 v 35 c 60 0 0 35 0 35 h 50"></path><g><path d="M 487.08331298828125 35 a -7.5 -7.5 0 0 1 0 -15"></path></g><path d="M 470.83331298828125 -45 h -15 a 2.5 2.5 0 0 1 0 -5"></path><path d="M 452.08331298828125 45 h 20"></path></g></g></g></g></svg>
+</div>
+</div>
+
+В этот примере мы говорим не о лесе целиком, а только о какой-то его части, по которой бежит заяц. Действие "бежать" тоже рассматривается без границ: он бежал раньше и будет бежать потом. Заяц рассматривается целиком.
+
+
 <div class="example">
 <div class="example-romanized">
     
@@ -932,12 +1260,6 @@ ________
     
 </div>
 </div>
-
-
-
-
-
-
 
 
 <script type="module" src="/ithkuil4-rus/js/examples.js">
