@@ -480,11 +480,11 @@ ________
 
 <table> 
 <thead>
-    <tr><th/><th> Раздельная </th><th> Сопряженная </th> <th> Слитая </th></tr>
+    <tr><th/><th> S Раздельная </th><th>  C Сопряженная </th> <th> F Слитая </th></tr>
 </thead>
 <tbody>
 <tr>
-    <td align="center" rowspan=2> <b>Похожая</b> </td> 
+    <td align="center" rowspan=2> <b>S Похожая</b> </td> 
     <td align="center"> <img src="primary-chars/ss.svg" width=100px/> </td> 
     <td align="center"> <img src="primary-chars/sc.svg" width=100px/> </td> 
     <td align="center"> <img src="primary-chars/sf.svg" width=100px/> </td> 
@@ -495,7 +495,7 @@ ________
     <td align="center"> <img src="primary-chars/sf-h.svg" width=100px/> </td> 
 </tr>
 <tr>
-    <td align="center" rowspan=2> <b>Непохожая</b> </td> 
+    <td align="center" rowspan=2> <b>D Непохожая</b> </td> 
     <td align="center"> <img src="primary-chars/ds.svg" width=100px/> </td> 
     <td align="center"> <img src="primary-chars/dc.svg" width=100px/> </td> 
     <td align="center"> <img src="primary-chars/df.svg" width=100px/> </td> 
@@ -506,7 +506,7 @@ ________
     <td align="center"> <img src="primary-chars/df-h.svg" width=100px/> </td> 
 </tr>
 <tr>
-    <td align="center" rowspan=2> <b>Нечеткая</b> </td> 
+    <td align="center" rowspan=2> <b>F Нечеткая</b> </td> 
     <td align="center"> <img src="primary-chars/fs.svg" width=100px/> </td> 
     <td align="center"> <img src="primary-chars/fc.svg" width=100px/> </td> 
     <td align="center"> <img src="primary-chars/ff.svg" width=100px/> </td> 
@@ -896,10 +896,10 @@ ________
     adpřila
 </div>
 <div class="example-russian">
-    (одна) украденная вещь (вне контекста цели)
+    (одна) украденная_вещь (вне контекста цели)
 </div>
 <div class="example-glosses">
-    S1-"украденная вещь"-OBJ-<b>CSL.UPX</b>.DEL.M.NRM
+    S1-"украденная_вещь"-OBJ-<b>CSL.UPX</b>.DEL.M.NRM
 </div>
 <div class="example-calligraphic">
     <svg viewBox="0 -53.80000305175781 130.85000610351562 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 47.5 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path></g><g><path d="M 80.05 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 115 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 90 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
@@ -917,7 +917,7 @@ ________
     контрабанда (всякая разная, выложенная на столе)
 </div>
 <div class="example-glosses">
-    S1-"украденная вещь"-OBJ-<b>VAR.MDC</b>.DEL.M.NRM
+    S1-"украденная_вещь"-OBJ-<b>VAR.MDC</b>.DEL.M.NRM
 </div>
 <div class="example-calligraphic">
     <svg viewBox="-9.5367431640625e-7 -53.80000305175781 140.85000610351562 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 52.5 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path><path d="M 9.5367431640625e-7 27.5 l 0 25 l 20 -20 l -1.2 -1.2 l -8.8 8.8 l 0 -22.6 l -10 10 z"></path><path d="M 65 -52.5 l -10 10 l 0 25 l 10 -10 l 0 -25 z"></path></g><g><path d="M 90.05 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 125 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 100 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
@@ -935,7 +935,7 @@ ________
     контрабанда на сбыт
 </div>
 <div class="example-glosses">
-    S2-"украденная вещь на продажу"-OBJ-<b>ASO.MFS</b>.DEL.M.NRM
+    S2-"украденная_вещь_на_продажу"-OBJ-<b>ASO.MFS</b>.DEL.M.NRM
 </div>
 <div class="example-calligraphic">
     <svg viewBox="9.5367431640625e-7 -53.80000305175781 160.5 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 60 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path><path d="M 62.5 32.5 l 5 -5 l 10 10 l 7.15 -7.15 l -11.3 -11.2 l -7 7.1 l -1 1 q -3.183 -1.742 -3.85 0 q -0.916 1.293 0 6.25 z"></path><path d="M 25.850000381469727 12.500000953674316 q -0.75 -5.3 -5.4 -8.4 q -4.9 -3.3 -12.95 -3.2 l -7.5 7.5 q 14.9 0.4 18.6 8.55 q 3.75 8.2 -7.45 16.9 l 1.25 1.15 q 7.35 -5.2 10.9 -11.4 q 3.3 -5.85 2.55 -11.1 z"></path><path d="M 45 -27.5 l 20 20 l 7.5 -7.5 l -20 -20 l -7.5 7.5 z"></path></g><g><path d="M 109.7000015258789 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 144.6500015258789 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 119.6500015258789 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
@@ -953,7 +953,7 @@ ________
     пара украденных вещей (вне контекста цели)
 </div>
 <div class="example-glosses">
-    S1-"украденная вещь"-OBJ-<b>CSL.DPX</b>.DEL.M.NRM
+    S1-"украденная_вещь"-OBJ-<b>CSL.DPX</b>.DEL.M.NRM
 </div>
 <div class="example-calligraphic">
     <svg viewBox="0 -53.80000305175781 130.85000610351562 106.4000015258789" stroke-linejoin="round" stroke-linecap="round" fill="black" xmlns="http://www.w3.org/2000/svg"><g><g><g><g><path d="M 47.5 35 l 7.5 -7.5 -26.9 -26.9 7.45 -7.55 -28.05 -28.05 -7.5 7.5 26.9 26.9 -7.5 7.5 28.1 28.1 z"></path><path d="M 51.95 28.6 q -1.825 3.28 -4.45 6.4 l -7.5 7.5 l -1.2 -1.2 l 7.5 -7.5 q -1.688 -4.106 -0.35 -4.55 q 1.45 -0.6 6 -0.65 z"></path></g><g><path d="M 80.05 -25 l 34.95 0 l 10 -10 l -50 0 l -10 10 l 25 25 l 0 35 l 10 -10 l 0 -30.05 l -19.95 -19.95 z"></path><g><path d="M 115 -35 q 2.55 4.45 -5 10 l 5 0 l 15.85 -15.9 l -13 -12.9 l -7 7 l 11.8 11.8 l -7.65 0 z"></path></g><g><path d="M 90 32.6 l -7.5 7.55 q 16.8 -0.55 27.5 12.45 q -4.6 -18.35 -18.85 -18.8 l 8.85 -8.8 l 0 -5 q -4.75 4.55 -10 1.5 l 0 11.1 z"></path></g></g></g></g></g></svg>
